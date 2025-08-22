@@ -13,7 +13,5 @@ public class ProdutoTest {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Digite o nome do produto: ");
-
-
     }
 }
